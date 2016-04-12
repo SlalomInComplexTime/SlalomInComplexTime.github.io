@@ -3,8 +3,8 @@
 <title>Supplementary Information</title> 			
 
 <!-- X3DOM inclusions -->
-<script type='text/javascript' src='http://www.x3dom.org/download/x3dom.js'></script> 
-<link rel='stylesheet' type='text/css' href='http://www.x3dom.org/download/x3dom.css'></link> 
+<script type='text/javascript' src='https://www.x3dom.org/download/x3dom.js'></script> 
+<link rel='stylesheet' type='text/css' href='https://www.x3dom.org/download/x3dom.css'></link> 
 
 <!-- MathJax -->
 <script type="text/x-mathjax-config">
@@ -12,7 +12,7 @@ MathJax.Hub.Config({
   tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
 });
 </script>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> 
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> 
 
 <!-- Google analytics -->
 <script>

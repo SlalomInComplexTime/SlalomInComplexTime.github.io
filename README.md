@@ -1,7 +1,7 @@
 
 This repository contains supplementary information to the paper 
 
-> *Slalom in complex time: emergence of low-energy structures in tunnel ionization via complex time contours*. E. Pisanty and M. Ivanov. *Phys. Rev. A*, in press; [arXiv:1507.00011](http://arxiv.org/abs/1507.00011) (2016).
+> *Slalom in complex time: emergence of low-energy structures in tunnel ionization via complex time contours*. E. Pisanty and M. Ivanov. [*Phys. Rev. A* **93**, 043408 (2016)](http://dx.doi.org/10.1103/PhysRevA.93.043408) [arXiv:1507.00011](http://arxiv.org/abs/1507.00011).
 
 This supplementary material can be accessed in either of two ways:
 
